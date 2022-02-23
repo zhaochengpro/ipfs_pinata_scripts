@@ -4,5 +4,5 @@
 # Second step
   Input `npm run ipfs [image_diractory] [uploaded image amount] [metadata_output_diractory] file` on your terminal, it will generate corresponding
   metadata file.
-# third step
+# Third step
   Input `npm run ipfs [metadata_diractory] dir` on your terminal. wait a moument. 
